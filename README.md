@@ -28,7 +28,7 @@ Python, SQL
 Generative AI (LLMs, RAG), LangChain, Embeddings, ChromaDB, Hugging-Face 
 
 ### **Full-Stack / Tools:**  
-Streamlit, Gradio, GitHub, Google Colab, Jupyter  
+Streamlit, Gradio, Streamlit, GitHub, Google Colab, Jupyter  
 
 ### **Database:**
 MySQL, Excel
