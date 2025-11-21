@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-![Logo](https://github.com/Shashank-Sen/Shashank-Sen/blob/main/banner.png)
+
 
 # 👋 Hi, I'm Piyush Gupta 
 
 💡 Generative AI Hobbyist · Full-Stack Data Science Developer  
 🔧 Building modern AI-driven applications, Data Insights & Web Tools  
-📍 Madhya Pradesh, India  
+📍 Satna, Madhya Pradesh, India  
 
 ---
 
@@ -14,8 +14,7 @@
 B.Tech CSE Graduate • Training in Data Science & Agentic AI • Building intelligent automation & AI-driven tools with a passion for:
 - Data science + pattern-based analytics  
 - Prompt engineering & LLM-powered applications  
-- UI/UX silent-killer apps using Streamlit & Python  
-- Preparing for software dev placement (TCS, Capgemini, Wipro)  
+- UI/UX silent-killer apps using Streamlit & Python   
 - Learning fast and building real-world solutions  
 
 ---
