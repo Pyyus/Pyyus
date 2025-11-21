@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<img width="905" height="365" alt="Gemini_Generated_Image_8s8xql8s8xql8s8x (1)" src="https://github.com/user-attachments/assets/b74de426-c9d3-4964-8772-b8516536241c" />
 
 # 👋 Hi, I'm Piyush Gupta 
 
