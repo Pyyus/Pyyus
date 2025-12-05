@@ -46,11 +46,27 @@ MySQL, Excel
 ---
 ## 📈 GitHub Stats
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pyyus\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyyus\&layout=compact\&theme=tokyonight) 
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=Pyyus&show_icons=true&theme=tokyonight&rank_icon=github" />
+
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Pyyus&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
+## 🧩 Overall GitHub Metrics
+
+<div align="center">
+
+  <img src="https://metrics.lecoq.io/Pyyus" />
+
+</div>
+
+---
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-piyush/)
